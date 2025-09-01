@@ -1,1 +1,3 @@
-hi
+# ChempMods
+## Mods
+## How to install
